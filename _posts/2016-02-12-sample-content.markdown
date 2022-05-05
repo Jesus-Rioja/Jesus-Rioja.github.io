@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Last tree to Jekyll!"
+title:  "The Last tree"
 date:   2022-05-05 17:50:00
 categories: main
 ---
