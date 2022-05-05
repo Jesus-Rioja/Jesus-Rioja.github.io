@@ -21,7 +21,7 @@
 title: My Portfolio
 email: jesusriojab@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Hi! My name is Jesús Rioja Bravo. I´m a computer engineer
+  Hi! My name is Jesús Rioja Bravo. I´m a computer engineer.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jesriob
