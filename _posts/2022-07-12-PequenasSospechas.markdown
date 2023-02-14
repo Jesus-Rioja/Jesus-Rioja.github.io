@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Pequeñas Sospechas"
+title:  "Pequenas Sospechas"
 description: Project for MalagaJam14.
 date:   2022-05-05 17:50:00
 categories: main
 ---
 
 You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
-To add new posts, simply add a file in the `_posts` directory that follows the convention: YYYY-MM-DD-name-of-post.ext.
+To add new posts, simply add a file in the `_posts` directory that follows the convention: YYYY-MM-DD-name-of-post.ext. uwuwuwuwu
 
 Jekyll also offers powerful support for code snippets:
 
