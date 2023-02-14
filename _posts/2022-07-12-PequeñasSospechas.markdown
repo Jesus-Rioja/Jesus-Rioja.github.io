@@ -3,7 +3,7 @@ layout: post
 title:  "Pequeñas Sospechas"
 description: Project for MalagaJam14.
 date:   2022-05-05 17:50:00
-categories: CATEGORY-2
+categories: main
 ---
 
 You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
