@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Shadow Clone"
-description: Final project for videogame programmin master at TheCore university.
-date:   2023-02-20 17:50:00
+title:  "AI project 1"
+description: to do.
+date:   2023-01-10 17:50:00
 category: AI
 ---
 
