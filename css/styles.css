@@ -319,7 +319,7 @@ legend {
 }
 
 progress {
-  vertical-align: baseline;
+    vertical-align: baseline;
 }
 
 [type=number]::-webkit-inner-spin-button,
@@ -476,7 +476,6 @@ mark,
 
 .img-fluid {
   max-width: 100%;
-  width: auto;
   height: auto;
 }
 
