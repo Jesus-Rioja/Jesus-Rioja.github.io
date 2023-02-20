@@ -182,7 +182,9 @@ sub {
  */
 
 img {
-    border: 1px solid black;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 /**
@@ -423,13 +425,3 @@ th {
   padding: 0;
 }
 
-li {
-    list-style-type: none;
-    display: flex;
-    align-items: center;
-}
-
-li:before {
-    content: "■";
-    margin-right: 15px;
-}
