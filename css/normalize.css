@@ -425,3 +425,9 @@ th {
   padding: 0;
 }
 
+.blog-roll-image{
+    width: 125px;
+    height: 125px;
+    object-fit: cover;
+    float: left;
+}
