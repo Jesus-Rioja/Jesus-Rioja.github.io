@@ -423,9 +423,6 @@ th {
   padding: 0;
 }
 
-ul{
-    list-style-image: none;
-}
 li {
     list-style-type: none;
     display: flex;
