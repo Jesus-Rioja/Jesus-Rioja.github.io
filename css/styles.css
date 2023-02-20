@@ -3907,12 +3907,12 @@ input[type=button].btn-block {
   background-color: transparent;
   border-color: transparent;
 }
-.nav-tabs .nav-link.active,
-.nav-tabs .nav-item.show .nav-link {
-  color: #495057;
-  background-color: #e6e6e6;
-  border-color: #dee2e6 #dee2e6 #e6e6e6;
-}
+    .nav-tabs .nav-link.active,
+    .nav-tabs .nav-item.show .nav-link {
+        color: #495057;
+        background-color: #a181ff;
+        border-color: #dee2e6 #dee2e6 #e6e6e6;
+    }
 .nav-tabs .dropdown-menu {
   margin-top: -0.125rem;
   border-top-left-radius: 0;
