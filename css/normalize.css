@@ -426,8 +426,8 @@ th {
 }
 
 .blog-roll-image{
-    width: 125px;
-    height: 125px;
+    width: 75px;
+    height: 75px;
     object-fit: cover;
     float: left;
 }
