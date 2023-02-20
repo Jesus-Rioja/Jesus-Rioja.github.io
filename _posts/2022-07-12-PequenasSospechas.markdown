@@ -4,6 +4,7 @@ title:  "Pequenas Sospechas"
 description: Project for MalagaJam14.
 date:   2022-05-05 17:50:00
 category: Videogames
+image: shadowclone
 ---
 
 You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
