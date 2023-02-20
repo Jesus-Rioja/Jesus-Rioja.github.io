@@ -10,14 +10,14 @@ title: "My Portfolio"
     <ul>
         {% for post in site.categories.Videogames %}
         <li>
+            <img src="assets/images/{{post.image}}.png" class="blog-roll-image"
+                 width='75'
+                 height='75'
+                 object-fit='cover'
+                 float='left' />
             <h3>
                 <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
             </h3>
-            <img src="assets/images/{{post.image}}.png" class="blog-roll-image"
-                 width='75'
-                height='75'
-                object-fit='cover'
-                float='left'/>
         </li>
         {% endfor %}
     </ul>
