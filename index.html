@@ -6,7 +6,7 @@ title: "My Portfolio"
 <div id="home">
     <h1>My Projects</h1>
     {% for category in site.categories %}
-    <h2>category</h2>
+    <h2>{{ category }}</h2>
     <ul>
         {% for post in category %}
         <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
