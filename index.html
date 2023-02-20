@@ -8,13 +8,13 @@ title: "My Portfolio"
     {% for category in site.categories %}
     <h2>Videogames</h2>
     <ul>
-        {% for post in category[0] %}
+        {% for post in category[1] %}
         <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
         {% endfor %}
     </ul>
     <h2>AI Projects</h2>
     <ul>
-        {% for post in category[1] %}
+        {% for post in category[2] %}
         <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
         {% endfor %}
     </ul>
