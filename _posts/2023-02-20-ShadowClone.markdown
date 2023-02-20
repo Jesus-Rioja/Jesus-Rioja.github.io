@@ -3,7 +3,7 @@ layout: post
 title:  "Shadow Clone"
 description: Final project for videogame programmin master at TheCore university.
 date:   2023-02-20 17:50:00
-categories: main
+categories: videogame
 ---
 
 You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!

@@ -4,7 +4,25 @@ title: "My Portfolio"
 ---
 
 <div id="home">
-    <h1>Videogames</h1>
+    <h1>My Projects</h1>
+    {% for category in site.categories %}
+    <h2>Videogames</h2>
+    <ul>
+        {% for post in tag[0] %}
+        <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+        {% endfor %}
+    </ul>
+    <h2>AI Projects</h2>
+    <ul>
+        {% for post in tag[1] %}
+        <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+        {% endfor %}
+    </ul>
+    {% endfor %}
+</div>
+
+<!--
+    <h1>My Projects</h1>
     <ul class="posts">
         {% for post in site.posts %}
         <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
@@ -16,4 +34,5 @@ title: "My Portfolio"
         <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
         {% endfor %}
     </ul>
-</div>
+
+-->
