@@ -5,6 +5,7 @@ description: to do.
 date:   2023-01-10 17:50:00
 category: AI
 image: shadowclone
+column: 3
 ---
 
 You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!

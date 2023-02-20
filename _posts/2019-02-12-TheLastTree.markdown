@@ -5,6 +5,7 @@ description: My first project.
 date:   2019-02-05 17:50:00
 category: Videogames
 image: shadowclone
+column: 6
 ---
 
 You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!

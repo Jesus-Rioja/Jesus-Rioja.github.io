@@ -5,6 +5,7 @@ description: Project for GlobalGameJam 2023.
 date:   2023-02-07 17:50:00
 category: Videogames
 image: heartoftheforest
+column: 2
 ---
 
 You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
