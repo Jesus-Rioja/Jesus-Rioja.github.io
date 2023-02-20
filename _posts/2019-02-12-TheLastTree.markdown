@@ -3,7 +3,7 @@ layout: post
 title:  "The Last tree"
 description: My first project.
 date:   2019-02-05 17:50:00
-categories: videogame
+category: videogame
 ---
 
 You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!

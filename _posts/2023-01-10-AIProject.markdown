@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Raices"
-description: Project for IndieSpainJam2022.
-date:   2022-11-12 17:50:00
-categories: main
+title:  "Shadow Clone"
+description: Final project for videogame programmin master at TheCore university.
+date:   2023-02-20 17:50:00
+category: AI
 ---
 
 You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
