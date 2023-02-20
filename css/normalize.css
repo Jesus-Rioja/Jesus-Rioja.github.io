@@ -422,10 +422,3 @@ td,
 th {
   padding: 0;
 }
-
-.blog-roll-image{
-    width: 75px;
-    height: 75px;
-    object-fit: cover;
-    float: left;
-}
