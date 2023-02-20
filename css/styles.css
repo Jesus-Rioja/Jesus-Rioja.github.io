@@ -10070,15 +10070,15 @@ h3 {
 #mainNav .navbar-nav li.nav-item a.nav-link {
   color: #e6e6e6;
 }
-#mainNav .navbar-nav li.nav-item a.nav-link:hover {
-  color: #0B89B7;
-}
+    #mainNav .navbar-nav li.nav-item a.nav-link:hover {
+        color: #a181ff;
+    }
 #mainNav .navbar-nav li.nav-item a.nav-link:active, #mainNav .navbar-nav li.nav-item a.nav-link:focus {
   color: #e6e6e6;
 }
-#mainNav .navbar-nav li.nav-item a.nav-link.active {
-  color: #0B89B7;
-}
+    #mainNav .navbar-nav li.nav-item a.nav-link.active {
+        color: #a181ff;
+    }
 #mainNav .navbar-toggler {
   font-size: 80%;
   padding: 0.8rem;
