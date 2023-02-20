@@ -1,4 +1,4 @@
-/*! normalize.css v3.0.2 | MIT License | git.io/normalize */
+﻿/*! normalize.css v3.0.2 | MIT License | git.io/normalize */
 
 /**
  * 1. Set default font family to sans-serif.
@@ -182,7 +182,7 @@ sub {
  */
 
 img {
-  border: 0;
+    border: 1px solid black;
 }
 
 /**
@@ -425,4 +425,14 @@ th {
 
 ul{
     list-style-image: none;
+}
+li {
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+}
+
+li:before {
+    content: "■";
+    margin-right: 15px;
 }
