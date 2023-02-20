@@ -3,7 +3,7 @@ layout: post
 title:  "Heart of the Forest"
 description: Project for GlobalGameJam 2023.
 date:   2023-02-07 17:50:00
-category: videogame
+category: Videogames
 ---
 
 You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!

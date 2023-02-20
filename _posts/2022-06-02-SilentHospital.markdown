@@ -3,7 +3,7 @@ layout: post
 title:  "Silent Hospital"
 description: Personal project.
 date:   2022-06-02 17:50:00
-category: videogame
+category: Videogames
 ---
 
 You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
