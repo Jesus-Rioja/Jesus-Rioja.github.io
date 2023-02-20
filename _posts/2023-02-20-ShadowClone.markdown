@@ -2,7 +2,7 @@
 layout: post
 title:  "Shadow Clone"
 description: Final project for videogame programming master at TheCore university.
-date:   2023-02-20 17:50:00
+date:   2023-02-19 17:50:00
 category: Videogames
 image: shadowclone
 column: 1
