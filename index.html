@@ -7,9 +7,9 @@ title: "My Portfolio"
     <h1>My Projects</h1>
 
     <h2>Videogames</h2>
-    <ul>
+    <ul class="nav">
         {% for post in site.categories.Videogames %}
-        <li float="left">
+        <li>
             <h3>
                 <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
             </h3>
