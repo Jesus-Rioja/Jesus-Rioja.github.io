@@ -10,7 +10,7 @@ title: "My Portfolio"
     <ol>
         {% for post in site.categories.Videogames %}
         <li>
-            <a href="{{ site.baseurl }}{{ post.url }}"> <img src="assets/images/{{post.image}}.png" alt={{post.title}}/> </a>
+            <a href="{{ site.baseurl }}{{ post.url }}"> <img src="assets/images/{{post.image}}.png" alt="{{post.title}}"/> </a>
             
         </li>
         {% endfor %}
