@@ -10097,14 +10097,14 @@ h3 {
   #mainNav .navbar-nav {
     margin-top: 0;
   }
-  #mainNav .navbar-nav > li.nav-item > a.nav-link.active {
-    color: #e6e6e6;
-    background: #0B89B7;
-  }
-  #mainNav .navbar-nav > li.nav-item > a.nav-link.active:active, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:focus, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover {
-    color: #e6e6e6;
-    background: #0B89B7;
-  }
+    #mainNav .navbar-nav > li.nav-item > a.nav-link.active {
+        color: #e6e6e6;
+        background: #a181ff;
+    }
+        #mainNav .navbar-nav > li.nav-item > a.nav-link.active:active, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:focus, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover {
+            color: #e6e6e6;
+            background: #a181ff;
+        }
 
   #mainNav.navbar-shrink {
     padding-top: 0.5rem;
